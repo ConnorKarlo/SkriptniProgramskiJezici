@@ -1,0 +1,18 @@
+{
+  "auti": [
+    {
+      "marka": "Citroen",
+      "model": "C4",
+      "cijena": "13000",
+      "prodano": 2,
+      "id": 1
+    },
+    {
+      "marka": "BMW",
+      "model": "1",
+      "cijena": "14000",
+      "prodano": 1,
+      "id": 2
+    }
+  ]
+}
